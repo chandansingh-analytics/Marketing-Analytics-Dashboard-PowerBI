@@ -1,3 +1,27 @@
+# 📊 Marketing Analytics Dashboard | Power BI Project
+
+## Dashboard Preview
+
+### 🏠 Home
+![Home Dashboard](Home.png)
+
+### 👥 Customer Analysis
+![Customer Dashboard](Customer.png)
+
+### 🎯 Campaign Analysis
+![Campaign Dashboard](Campaign.png)
+
+### 💰 Spending Analysis
+![Spending Dashboard](Spending.png)
+
+### 📈 Business Insights
+![Insights Dashboard](Insights.png)
+
+---
+
+## Project Overview
+
+This Power BI dashboard analyzes customer behaviour, marketing campaign effectiveness, product spending patterns and customer segmentation.
 # Marketing Analytics Dashboard | Power BI Project
 
 ## Project Overview
